@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Slaypeer is an on-demand high availablity lifestyle service provider.
 <!--
 
 **Here are some ideas to get you started:**
